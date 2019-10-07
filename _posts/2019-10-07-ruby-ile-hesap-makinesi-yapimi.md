@@ -9,3 +9,5 @@ Ruby programlama dili günümüzdeki en hızlı gelişim gösteren ve yaygınlı
 Shoes, Ruby için geliştirilmiş bir grafik arayüz kütüphanesidir içerisinde kullanıma hazır element tanımlamaları bulunmaktadır. Bunları kullanarak kolaylıkla işlevsel programlar üretebiliriz. Shoes sayesinde bir kez Ruby ile programlayarak birden fazla platformda uygulamamızı çalıştırabiliriz. Ruby yükleyebildiğimiz tüm platformlarda bunu gerçekleştirebilmemiz mümkün. (Windows, Mac Os ve Linux )
 
 Ruby kurulum aşamasını gerçekleştirdiğimizi varsayarak ilk işlemimize başlıyoruz. Shoes gem pakedini yüklemek için aşağıda belirttiğimiz komutu terminal vasıtası ile işletiyoruz.
+
+    gem install green_shoes
