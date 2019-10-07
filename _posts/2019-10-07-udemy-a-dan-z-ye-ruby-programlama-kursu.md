@@ -2,7 +2,7 @@
 layout: post
 title:  "Türkiye'nin İlk Ruby Görsel Eğitim Seti Yayında"
 categories: [ Ruby ]
-image: assets/images/ruby-udemy.jpg
+image: assets/images/ruby-udemy2.jpg
 ---
 Merhaba sevgili okuyucularım Ruby programlama diline olan ilgim zaten bilginiz dahilinde. Bu güne kadar Ruby programlama dili hakkında çeşitli makaleler yazmaya çalıştım bunun yanında zorlu bir süreçten geçerek birde kitap yazdım. Görsel içerik üretmek maksadıyla Youtube üzerinden ücretsiz olarak Ruby dili ile ilgili videolarda paylaştım. Youtube üzerinde hali hazırda benim ve farklı Ruby severlerin çektiği içerikler mevcut. Ancak profesyonel manada bir set maalesef şu ana kadar mevcut değildi.
 
