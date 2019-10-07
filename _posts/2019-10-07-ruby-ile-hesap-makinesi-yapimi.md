@@ -11,3 +11,10 @@ Shoes, Ruby için geliştirilmiş bir grafik arayüz kütüphanesidir içerisind
 Ruby kurulum aşamasını gerçekleştirdiğimizi varsayarak ilk işlemimize başlıyoruz. Shoes gem pakedini yüklemek için aşağıda belirttiğimiz komutu terminal vasıtası ile işletiyoruz.
 
     gem install green_shoes
+
+Kurulum işlemi 20-25 saniye içerisinde bitecektir. Geldik şimdi programımızı yazma kısmına. Favori metin editörünüz ile hesap_makines.rb isminde bir dosya oluşturun ve içerisine aşağıda belirttiğimiz kodları uygulayın.
+
+    require 'green_shoes'
+    
+    Shoes.app(title: "Hesap Makinesi", width: 200, height: 240) do
+    end
