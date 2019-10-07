@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ruby ile Hesap Makinesi Yapımı"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: assets/images/rubyhm.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Ruby programlama dili günümüzdeki en hızlı gelişim gösteren ve yaygınlığını da aynı oranda sağlayan bir dildir. Ruby ile terminal üzerinden işleyen programlar geliştirebileceğiniz gibi rails ve sinatra gibi popüler web frameworkleri sayesinde web uygulamaları da geliştirebilirsiniz. Sadece bu kadar ile de kalmayıp konumuzun oluşmasına da destek sağlayan Shoes ile masaüstü uygulamalar da geliştirebilirsiniz.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
